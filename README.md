@@ -15,3 +15,4 @@ That depends, but were trying to make our game good. Hopefully one day it will c
 # How does Multiplayer work?
 Well local works on a code that is given to you, you can share this to your discord friends etc..
 Public works little differently, because it generates the same thing as a local one, but with an port so you can share this to your friends that are far away and use a different wifi.
+Wish us luck and most importantly, have fun!
