@@ -1,6 +1,6 @@
 # Dowers Deathmatch
 ![OOPSIEE](Dowers-Deathmatch.png)
-Welcome to our project, this project is a game that was made in godot and is aiming to be a Deathmatch like game from 2010s and earlier.
+Welcome to our project, this project is a game that was made in godot and is aiming to be a Deathmatch like game from 2010s and earlier. 
 # What is the game about?
 The game is about playing old-style deathmatch. My inspiration was and still is old-style games like Quake, Doom and so on..
 - You can expect some basic guns with two special ones.
