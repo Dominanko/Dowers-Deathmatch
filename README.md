@@ -1,5 +1,5 @@
 # Dowers Deathmatch
-![Alt text](Dowers-Deathmatch.png)
+![OOPSIEE](Dowers-Deathmatch.png)
 Welcome to my project, this project is a game. This game was programmed in godot.
 # What is the game about?
 The game is about playing old-style deathmatch. My inspiration was and still is old-style games like Quake, Doom and so on..
