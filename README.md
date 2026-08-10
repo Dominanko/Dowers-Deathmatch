@@ -8,8 +8,8 @@ The game is about playing old-style deathmatch. My inspiration was and still is 
 # Is this project still in progress?
 - Yes it is. And if you notice some not detailed things, then please try to ignore it, because its still WIP. Thank you.
 # Who helped you develop this game?
-- ITZ_dudefkos = Designer
-- Dominik_Gaming11 ( Me ) = Programmer
+- ITZ_dudefkos = Designer/Programmer
+- Dominik_Gaming11 ( Me ) = Programmer/Designer
 # How long does it take you to make an update?
 That depends, but were trying to make our game good. Hopefully one day it will come true.
 # How does Multiplayer work?
